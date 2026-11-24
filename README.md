@@ -4,7 +4,7 @@ Self-taught builder from the Netherlands. I build with AI: I come up with the id
 
 What I'm working on:
 
-- **Jarvis**, my own voice assistant, with Discord and Telegram bots, MCP servers and a phone bridge
+- **Lex**, my own voice assistant, with Discord and Telegram bots, MCP servers and a phone bridge
 - **RSApp**, a RuneScape companion app with skill guides, quest maps and trackers
 - Websites, Discord bots and automations, mostly React, Next.js, TypeScript, Supabase, Python and Node
 - Running local models on my own Linux machine (Kubuntu)
